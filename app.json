@@ -83,7 +83,7 @@
             "required": false,
             "value": "True"
         },
-        "TOS": {
+        "PORT": {
             "description": "URL to your Terms of Service Text",
             "required": false
         },
